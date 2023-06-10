@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devfelipecarvalho
-- 👀 I’m interested in native mobile development using Swift and hibrid using Dart/Flutter
+- 👀 I’m interested in native mobile development using Swift and hybrid using Dart/Flutter
 - 🌱 I’m currently learning mobile development
 
 <!---
