@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devfelipecarvalho
+- 👋 Hi, I’m Felipe Carvalho
 - 👀 I’m interested in native mobile development using Swift and hybrid using Dart/Flutter
 - 🌱 I’m currently learning mobile development
 
